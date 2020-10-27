@@ -6,7 +6,7 @@
   "scripts": {
     "test": "n/a"
   },
-  "repository": "mcansh/intro-to-http-caching",
+  "repository": "mcansh/vercel-api-boilerplate",
   "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh/)",
   "license": "MIT",
   "devDependencies": {
