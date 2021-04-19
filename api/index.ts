@@ -1,6 +1,6 @@
-import type { NowApiHandler } from "@vercel/node";
+import type { VercelApiHandler } from "@vercel/node";
 
-const handler: NowApiHandler = (req, res) => {
+const handler: VercelApiHandler = (req, res) => {
   return res.status(200).end(`
     <!DOCTYPE html>
     <html lang="en">
